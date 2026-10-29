@@ -1,0 +1,1 @@
+"""Recruiter Bot application package."""
